@@ -3,10 +3,7 @@
 
 - 👀 I am interested in infrastructure and server systems.
 - 🌱 I am currently learning frontend, backend and database in full stack.
-- 💞️ I’m looking to collaborate on ...
-- ⚡ Fun fact: ... I like music games (CHUNITHM)!
-<br>
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Y-KOYA&show_icons=true&locale=en&layout=compact)<br>
+- ⚡ Fun fact: ... I like to build my own computer and music games (CHUNITHM)!
 
 ## Language
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python"/><br>
