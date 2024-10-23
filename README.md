@@ -9,7 +9,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python"/><br>
 
 ## Tools
-<img src="https://skillicons.dev/icons?i=docker,express,fastapi,figma,nextjs,tailwind,express,fastapi,nodejs,mysql,postgres,prisma,firebase,vscode,postman,notion,gmail,powershell" /><br>
+<img src="https://skillicons.dev/icons?i=notion,gmail,figma,powershell,vscode,docker,nodejs,nextjs,tailwind,express,fastapi,prisma,mysql,postgres,firebase,postman" /><br>
 
 <!---
 Y-KOYA/Y-KOYA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
